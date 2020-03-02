@@ -1,14 +1,13 @@
 function myFunction() {
 
 
-   maxLength=250;
-   str1= maxLength - sentence.length;
+   var maxLength=250;
 
+   length= maxLength - sentence.length;
   
-     r = document.getElementById("string1").value;
+   length = document.getElementById("sentence").value;
    
-   document.getElementById("check").innerHTML = r;
+   document.getElementById("check").innerHTML = length;
  
-
 
  }
