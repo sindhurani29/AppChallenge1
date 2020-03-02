@@ -2,10 +2,9 @@ function myFunction() {
 
 
    var maxLength = 250;
-   length1 = document.getElementById("sentence").value;
-   l2=sentence.length;
-   l3= maxLength - l2;
+   var a = document.getElementById("sentence").value;
+   
   
-   document.getElementById("check").innerHTML = l3;
+   document.getElementById("check").innerHTML = maxlength - a.length;
 
  }
