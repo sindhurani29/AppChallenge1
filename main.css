@@ -20,7 +20,7 @@ body{
 
 input {
     height: 30px;
-    border: 1px rgb(142, 2, 207) solid;
+    border: 1px rgb(2, 1, 1) solid;
     border-radius: 10px;
 }
 
@@ -35,7 +35,7 @@ button {
     border: 1px rgb(165, 207, 219) solid;
     border-radius: 40px;
     cursor: pointer;
-    background-color: rgb(153, 95, 158);
+    background-color: rgb(230, 155, 236);
 }
 
 
