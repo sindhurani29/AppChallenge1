@@ -9,14 +9,11 @@ header {
     text-align: center;
     background-color: rgb(179, 181, 185);
 }
-footer{
 
-    
-color: rgb(142, 142, 236);
-    
-    
-      
+footer{    
+color: rgb(142, 142, 236);     
 }
+
 body{
     text-align: center;
 }
@@ -37,7 +34,6 @@ button {
     font-size: 25px;
     border: 1px rgb(165, 207, 219) solid;
     border-radius: 40px;
-
     cursor: pointer;
     background-color: rgb(153, 95, 158);
 }

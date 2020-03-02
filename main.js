@@ -1,5 +1,5 @@
 function myFunction() {
    
 
-   function: maxLength - sentence.length
+   string= maxLength - sentence.length
  }
