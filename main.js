@@ -5,6 +5,6 @@ function myFunction() {
    var a = document.getElementById("sentence").value;
    
   
-   document.getElementById("check").innerHTML = maxlength - a.length;
+   document.getElementById("check").innerHTML = maxLength - a.length;
 
  }
