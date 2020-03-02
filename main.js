@@ -5,7 +5,7 @@ function myFunction() {
 
    length= maxLength - sentence.length;
   
-   length = document.getElementById("sentence").value;
+   length1 = document.getElementById("sentence").value;
    
    document.getElementById("check").innerHTML = length;
  
